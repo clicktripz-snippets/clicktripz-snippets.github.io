@@ -1,7 +1,7 @@
 # FlightHub Interstitial Testing
 ## Links
-* JustFly Staging URL: <http://staging17.justfly.com/>
-* FlightHub Staging URL: <http://staging17.flighthub.com/>
+* <a href="http://staging17.justfly.com/">JustFly Staging URL</a>
+* <a href="http://staging17.flighthub.com/">FlightHub Staging URL</a>
 
 ## Instructions
 The interstitial ad will appear when the user leaves your site via the back button.
